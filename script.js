@@ -12,4 +12,4 @@ console.log(c)
 const k='var'//can't be redeclared and updated
 
 k='ini'
-console.log(k)
+console.log(k);
